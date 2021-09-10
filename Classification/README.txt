@@ -1,1 +1,1 @@
-This is the placeholder for all the raw datasets for the two classification problems.
+This is the placeholder for all the raw datasets used in the two classification problems.
